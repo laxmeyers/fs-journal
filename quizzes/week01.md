@@ -38,13 +38,13 @@ cascading style sheets
 ```
 <!-- enter you answer in the space below -->
 ```
-
+selector: h1.main-title, property: color, value: rgba
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+add a b tag to it.
 ```
 
 **8.** In what tag does the majority of your code belong?
@@ -56,17 +56,17 @@ body
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+dl ol ul
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+it is what can affect the size and growth of a flex box
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+hieght and width
 ```
