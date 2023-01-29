@@ -8,12 +8,17 @@ let, var, const
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+some statemenst that can take in an input and return an output.
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+they are
+- keep your functions in charge of one thing
+- making code that is upkeeping itself and doesnt need the source code to change
+- when making a lot of code keep it simple.
+- dont give a parameter that a function wont use
+- dont make function rely upon each other.
 ```
 **4.** Given this array: 
 ```js
@@ -54,13 +59,21 @@ i++
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Document object Model. You have to access an html file and then the javascript file.
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+-null
+-undefined
+-boolean
+-number
+-BigInt
+-string
+-symbol
+-NaN
+-objects
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
@@ -70,5 +83,5 @@ a parameter is what a function wants to mess with the data. An argument is what 
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+anything other than a value that cant be changed is a reference value.
 ```
